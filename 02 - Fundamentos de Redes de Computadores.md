@@ -1,4 +1,4 @@
-# 🌐 Aula 02 — Fundamentos de Redes de Computadores
+# 🌐02 — Fundamentos de Redes de Computadores
 
 ## 🎯 Objetivo da Aula
 Compreender como funcionam as redes de computadores,
@@ -102,5 +102,3 @@ em Cyber Security.
 Redes são a base da comunicação digital.
 Sem compreender redes, não é possível proteger sistemas
 de forma eficaz.
-
-➡️ Próxima aula: **Segurança da Informação e Gestão de Riscos**
