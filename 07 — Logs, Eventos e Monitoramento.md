@@ -1,6 +1,6 @@
 # 📊07 — Logs, Eventos e Monitoramento
 
-## 🎯 Objetivo da Aula
+## 🎯 Objetivo
 Apresentar o conceito de logs e eventos,
 sua importância para a segurança da informação
 e como o monitoramento é essencial na detecção
