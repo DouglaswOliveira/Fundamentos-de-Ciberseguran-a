@@ -1,6 +1,6 @@
 # 🔓05 — Portas, Serviços e Superfície de Ataque
 
-## 🎯 Objetivo da Aula
+## 🎯 Objetivo
 Compreender o funcionamento de portas e serviços,
 o conceito de superfície de ataque e sua importância
 na identificação e redução de riscos em Cyber Security.
