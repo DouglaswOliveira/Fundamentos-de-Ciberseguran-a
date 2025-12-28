@@ -1,6 +1,6 @@
 # 🛡️06 — Introdução ao Blue Team
 
-## 🎯 Objetivo da Aula
+## 🎯 Objetivo
 Apresentar o conceito de Blue Team,
 suas responsabilidades e sua importância
 na defesa de sistemas, redes e informações.
