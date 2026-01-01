@@ -5,13 +5,14 @@
 ![GitHub license](https://img.shields.io/github/license/DouglaswOliveira/cybersecurity-fundamentals?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-informativo-blue?style=for-the-badge)
 
-Repositório dedicado ao estudo estruturado de **Cyber Security**,
-com foco em **fundamentos**, **segurança da informação**, **redes**
+Repositório dedicado ao estudo estruturado de **Cyber Security**,  
+com foco em **fundamentos**, **segurança da informação**, **redes**  
 e **segurança defensiva (Blue Team)**.
 
-Este projeto reúne conteúdos organizados de forma clara,
-progressiva e acessível, com **finalidade exclusivamente informativa
-e educacional**.
+Este projeto reúne conteúdos organizados de forma clara, progressiva
+e acessível, com **finalidade exclusivamente informativa e educacional**,
+servindo como base sólida para estudos e formação na área de segurança
+cibernética.
 
 ---
 
@@ -22,16 +23,23 @@ e educacional**.
 - [🛠️ Tecnologias e Conceitos](#-tecnologias-e-conceitos)
 - [🚀 Status do Projeto](#-status-do-projeto)
 - [⚠️ Observação Importante](#-observação-importante)
+- [📜 Licença](#-licença)
+- [✍️ Autor](#️-autor)
 
 ---
 
 ## 🎯 Objetivo
-Disponibilizar conhecimento introdutório e fundamental em Cyber Security,
+Disponibilizar conhecimento introdutório e fundamental em **Cyber Security**,
 abordando:
+
 - Princípios da Segurança da Informação
 - Funcionamento de redes e protocolos
 - Conceitos básicos de defesa cibernética (Blue Team)
-- Logs, monitoramento e boas práticas de segurança
+- Uso do Linux aplicado à segurança
+- Logs, monitoramento e boas práticas defensivas
+
+Este repositório é indicado para **iniciantes**, estudantes de tecnologia
+e profissionais em transição de carreira para a área de segurança.
 
 ---
 
@@ -84,4 +92,48 @@ Cada pasta representa um **módulo de estudo numerado**.
 Dentro de cada módulo você encontrará arquivos `.md`
 com o conteúdo organizado de forma progressiva.
 
-📌 Recomenda-se seguir a leitura **na ordem numérica** das pastas.
+📌 Recomenda-se seguir a leitura **na ordem numérica** das pastas
+para melhor aproveitamento do conteúdo.
+
+---
+
+## 🛠️ Tecnologias e Conceitos
+- Linux
+- Bash
+- Redes TCP/IP
+- Segurança da Informação
+- Blue Team (conceitos defensivos)
+- Logs e Monitoramento
+- Git e GitHub
+
+---
+
+## 🚀 Status do Projeto
+📘 **Status:** Em evolução contínua  
+📌 **Tipo:** Educacional / Informativo  
+🔧 **Atualizações:** Novos módulos e labs serão adicionados gradualmente
+
+---
+
+## ⚠️ Observação Importante
+Este repositório possui **finalidade educacional**.
+
+- Não contém exploração ofensiva
+- Não incentiva atividades ilegais
+- Todo o conteúdo deve ser praticado **apenas em ambientes controlados**
+  (VMs, labs locais, ambientes de estudo)
+
+---
+
+## 📜 Licença
+Este projeto está licenciado sob a licença **MIT**.  
+Consulte o arquivo `LICENSE` para mais informações.
+
+---
+
+## ✍️ Autor
+**Douglas Wesley Alves de Oliveira**  
+📍 Área: Cyber Security | Linux | Python | Backend  
+🔗 GitHub: https://github.com/DouglaswOliveira  
+
+> “Segurança não é produto, é processo.”
